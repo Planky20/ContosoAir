@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/AZvlad/AzureDevopsLabs-Vlad/_apis/build/status%2FPlanky20.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/AZvlad/AzureDevopsLabs-Vlad/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/AZvlad/AzureDevopsLabs-Vlad/_apis/build/status%2FPlanky20.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/AZvlad/AzureDevopsLabs-Vlad/_build/latest?definitionId=3&branchName=master)  
 
 # Microsoft.Github CI Demo
 
