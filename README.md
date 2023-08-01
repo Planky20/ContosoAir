@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/AZvlad/AzureDevopsLabs-Vlad/_apis/build/status%2FPlanky20.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/AZvlad/AzureDevopsLabs-Vlad/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
